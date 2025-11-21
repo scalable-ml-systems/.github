@@ -1,6 +1,10 @@
 # Scalable ML Systems
 
-### Real-world AI infrastructure and MLOps systems for modern ML workloads.
+## Real-world AI infrastructure and MLOps systems for modern ML workloads.
+
+Scalable ML Systems is dedicated to building production-grade MLOps and AI infrastructure that powers modern machine learning workloads at scale.
+
+The focus is on end-to-end reproducibility, automated pipelines, GPU-accelerated training, secure cloud deployment, and high-performance inference systems.
 
 ### 🧱 Platform Capabilities
 This portfolio demonstrates:
