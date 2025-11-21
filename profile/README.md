@@ -15,7 +15,7 @@
 
 ### Tech Stack
 
-**Infrastructure:** AWS · Terraform · VPC · EKS · S3 · IAM
+**Infrastructure:** AWS . AZURE . GCP · Terraform · VPC · EKS · S3 · IAM
 
 **ML Pipelines:** Prefect · Airflow · Kubeflow · MLflow · DVC
 
