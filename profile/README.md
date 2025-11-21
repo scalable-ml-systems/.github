@@ -2,16 +2,18 @@
 
 ### Real-world AI infrastructure and MLOps systems for modern ML workloads.
 
-### We design and build:
+### 🧱 Platform Capabilities
+This portfolio demonstrates:
 
- - Reproducible ML pipelines
- - Automated training & experiment tracking
- - GPU-accelerated training systems
- - Scalable model serving platforms
- - Kubernetes + Terraform–based ML infrastructure
- - Monitoring, observability & cost controls
+- Reproducible ML pipelines
+- GPU-accelerated training environments
+- Production-grade data + feature engineering
+- Optimized inference using Triton + ONNX Runtime
+- Scalable ML infrastructure on Kubernetes
+- Full ML CI/CD automation
+- Monitoring, observability & cost controls
 
- A complete portfolio of real-world MLOps and AI Infra engineering.
+A complete portfolio of real-world MLOps and AI Infra engineering.
 
 ### Tech Stack
 
