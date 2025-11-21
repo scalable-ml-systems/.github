@@ -2,20 +2,22 @@
 
 ## Real-world AI infrastructure and MLOps systems for modern ML workloads.
 
-Scalable ML Systems is dedicated to building production-grade MLOps and AI infrastructure that powers modern machine learning workloads at scale.
+Building real-world AI infrastructure for the next generation of machine learning systems.
 
-The focus is on end-to-end reproducibility, automated pipelines, GPU-accelerated training, secure cloud deployment, and high-performance inference systems.
-
-### 🧱 Platform Capabilities
-This portfolio demonstrates:
+This organization is a collection of architected, end-to-end projects covering:
 
 - Reproducible ML pipelines
-- GPU-accelerated training environments
-- Production-grade data + feature engineering
-- Optimized inference using Triton + ONNX Runtime
-- Scalable ML infrastructure on Kubernetes
-- Full ML CI/CD automation
-- Monitoring, observability & cost controls
+- Data engineering + versioning
+- Training automation
+- Experiment tracking + registry
+- CI/CD for ML
+- GPU-accelerated training platforms
+- Triton/KServe inference systems
+- Kubernetes + Terraform infrastructure
+- Observability, logging, monitoring
+- Cost governance + scaling strategies
+
+Built with a “production-first” mindset, mirroring how modern AI/ML engineering teams operate at scale.
 
 A complete portfolio of real-world MLOps and AI Infra engineering.
 
