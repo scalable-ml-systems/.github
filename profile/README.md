@@ -41,4 +41,4 @@ Modern ML roles (MLOps, AI Infra, ML Platform Engineer, AI Systems) demand:
  - reliable ML pipelines
  - performance + monitoring skills
 
-This org was created to master all of these — hands-on, end-to-end.
+Each project is designed to reflect real-world AI platform engineering.
