@@ -50,3 +50,6 @@ Modern ML roles (MLOps, AI Infra, ML Platform Engineer, AI Systems) demand:
  - performance + monitoring skills
 
 Each project is designed to reflect real-world AI platform engineering.
+
+👉 My personal profile hosts exploratory repos and broader portfolio: [nbethala](https://github.com/nbethala).
+
