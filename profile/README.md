@@ -2,24 +2,13 @@
 
 ## Real-world AI infrastructure and MLOps systems for modern ML workloads.
 
-Building real-world AI infrastructure for the next generation of machine learning systems.
+This organization is a collection of architected, MLOps end-to-end platforms covering:
 
-This organization is a collection of architected, end-to-end projects covering:
+Each repo = full stack platform (infra, orchestration, workloads, reproducibility, docs).
 
-- Reproducible ML pipelines
-- Data engineering + versioning
-- Training automation
-- Experiment tracking + registry
-- CI/CD for ML
-- GPU-accelerated training platforms
-- Triton/KServe inference systems
-- Kubernetes + Terraform infrastructure
-- Observability, logging, monitoring
-- Cost governance + scaling strategies
+Teardown‑ready + cost‑controlled for real‑world credibility.
 
-Built with a “production-first” mindset, mirroring how modern AI/ML engineering teams operate at scale.
-
-A complete portfolio of real-world MLOps and AI Infra engineering.
+Together: an end‑to‑end architecture trajectory toward platform engineering & solutions architecture.
 
 ### Tech Stack
 
@@ -39,17 +28,7 @@ A complete portfolio of real-world MLOps and AI Infra engineering.
 
 **Data:** Delta Lake · Parquet · Great Expectations
 
-###  Why This Org Exists
-
-Modern ML roles (MLOps, AI Infra, ML Platform Engineer, AI Systems) demand:
-
- - systems thinking
- - cloud infrastructure
- - distributed GPU workloads
- - reliable ML pipelines
- - performance + monitoring skills
-
-Each project is designed to reflect real-world AI platform engineering.
+Each repository is designed to reflect real-world AI platform engineering.
 
 👉 My personal profile hosts exploratory repos and broader portfolio: [nbethala](https://github.com/nbethala).
 
