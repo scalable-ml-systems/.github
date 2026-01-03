@@ -1,32 +1,39 @@
-# Scalable ML Systems
+# 🚀 AI Platform Engineering & Agentic Infrastructure
 
-## Real-world AI infrastructure and MLOps systems for modern ML workloads.
+**Architecting the "Paved Roads" for Production-Grade AI.** This organization is a masterclass in **Cloud-Native AI Systems**, focused on bridging the gap between raw compute (GPUs) and autonomous agentic workflows.
 
-This organization is a collection of architected, MLOps end-to-end platforms covering:
+---
 
-Each repo = full stack platform (infra, orchestration, workloads, reproducibility, docs).
+## 🌐 The Portfolio Philosophy
+Each repository here is a **production-ready blueprint**, not just a script. I focus on:
+* **Agentic Orchestration:** Building stateful, self-healing agent runtimes.
+* **High-Performance Serving:** Optimizing VRAM and throughput for 400B+ parameter models.
+* **Infrastructure as Code (IaC):** Multi-cloud environments that spin up/down to control burn rates (**FinOps**).
+* **Observability:** Deep-stack monitoring from CUDA kernels to API latency.
 
-Teardown‑ready + cost‑controlled for real‑world credibility.
+## 🛠️ The Core Stack
 
-Together: an end‑to‑end architecture trajectory toward platform engineering & solutions architecture.
+| Layer | Technologies |
+| :--- | :--- |
+| **Infrastructure** | AWS · GCP · Terraform · **Kubernetes (EKS/GKE)** · VPC Networking |
+| **Agentic Ops** | **LangGraph** · Temporal · Redis (Stateful Memory) · MCP |
+| **Inference & Serving** | **vLLM** · Triton Inference Server · TensorRT-LLM · FastAPI |
+| **ML Platforms** | Kubeflow · MLflow · Ray (Distributed Training) · Prefect |
+| **Reliability/FinOps** | Prometheus · Grafana · GitHub Actions (CI/CD) · Cost-Optimized Spot Instances |
 
-### Tech Stack
+---
 
-**Infrastructure:** AWS . AZURE . GCP · Terraform · VPC · EKS · S3 · IAM
+## 📂 Key Architectures
+* **[Agent-Orchestration-Platform]:** A stateful, Redis-backed runtime for autonomous agents using LangGraph.
+* **[Scalable-Inference-Cluster]:** Auto-scaling vLLM deployment on EKS with custom GPU monitoring.
+* **[End-to-End-MLOps-Pipeline]:** Data versioning with DVC and automated retraining triggers via Prefect.
 
-**ML Pipelines:** Prefect · Airflow · Kubeflow · MLflow · DVC
+---
 
-**Training:** PyTorch · DeepSpeed · Horovod · Ray
+### 💼 Career Trajectory
+I am building toward **Solutions Architecture** and **AI Platform Lead** roles. I believe the future of engineering isn't just writing code—it's managing the **infrastructure of intelligence.**
 
-**Serving:** Triton Inference Server · KServe · FastAPI
-
-**Orchestration:** Kubernetes · Helm · Kustomize
-
-**CI/CD:** GitHub Actions · Docker · Make
-
-**Observability:** Prometheus · Grafana · Loki
-
-**Data:** Delta Lake · Parquet · Great Expectations
+👉 **Main Portfolio & Labs:** [nbethala](https://github.com/nbethala)
 
 Each repository is designed to reflect real-world AI platform engineering.
 
