@@ -30,12 +30,5 @@ Each repository here is a **production-ready blueprint**, not just a script. I f
 
 ---
 
-### 💼 Career Trajectory
-I am building toward **Solutions Architecture** and **AI Platform Lead** roles. I believe the future of engineering isn't just writing code—it's managing the **infrastructure of intelligence.**
-
 👉 **Main Portfolio & Labs:** [nbethala](https://github.com/nbethala)
-
-Each repository is designed to reflect real-world AI platform engineering.
-
-👉 My personal profile hosts exploratory repos and broader portfolio: [nbethala](https://github.com/nbethala).
 
