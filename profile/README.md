@@ -24,7 +24,7 @@ Each repository here is a **production-ready blueprint**, not just a script. I f
 ---
 
 ## 📂 Key Architectures
-* **[GPU Inference Platform-Nvidia Triton Inference Server]:** A GPU Inference Platform for Multi Model Frameworks Using Nvidia Triton Inference Server.
+* **[GPU Inference Platform-Nvidia Triton]:** A GPU Inference Platform for Multi Model Frameworks Using Nvidia Triton Inference Server.
 * **[Agent-Orchestration-Platform]:** A stateful, Redis-backed runtime for autonomous agents using LangGraph.
 * **[Scalable-Inference-Cluster]:** Auto-scaling vLLM deployment on EKS with custom GPU monitoring.
 * **[End-to-End-MLOps-Pipeline]:** Data versioning with DVC and automated retraining triggers via Prefect.
