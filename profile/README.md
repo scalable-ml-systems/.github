@@ -8,12 +8,10 @@ Practical ML infrastructure patterns, documented through real problems and solut
 - Agent workflows → LangGraph + Temporal (in progress)  
 - Versioning/reproducibility → DVC + MLflow (in progress)  
 
-#### Built By
-**Nancy Bethala-Frounjian** | AI Infrastructure Engineer
+#### Built by Nancy Bethala‑Frounjian | AI Infrastructure Engineer
 
-### Community
+#### Community
 This work is shared openly to support others building ML infrastructure.
-
 - Technical notes: [StackBytes](https://stackbytes.beehiiv.com/)
 - Portfolio & labs: [nbethala](https://github.com/nbethala)
 - Contact: nfrounjian@gmail.com
