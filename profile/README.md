@@ -4,9 +4,9 @@ Practical ML infrastructure patterns, documented through real problems and solut
 - GPU serving inefficiency → Triton with multi‑framework support and GPU scheduling  
 - No observability → Prometheus/Grafana/Loki integrated  
 - Prototype → production gap → Terraform IaC + CI/CD + service mesh rollout  
-- LLM latency/cost → vLLM router with batching and monitoring (in progress)
-- Agent workflows → LangGraph + Temporal (in progress)  
-- Versioning/reproducibility → DVC + MLflow (in progress)  
+- LLM latency/cost → vLLM router with batching and monitoring (active development)
+- Agent workflows → LangGraph + Temporal orchestration (active development)
+- Versioning/reproducibility → DVC + MLflow (active development)  
 
 #### Built by Nancy Bethala‑Frounjian | AI Infrastructure Engineer
 
