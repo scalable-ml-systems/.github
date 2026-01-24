@@ -11,7 +11,6 @@ Practical ML infrastructure patterns, documented through real problems and solut
 #### Built by Nancy Bethala‑Frounjian | AI Infrastructure Engineer
 
 #### Community
-This work is shared openly to support others building ML infrastructure.
 - Technical notes: [StackBytes](https://stackbytes.beehiiv.com/)
 - Portfolio & labs: [nbethala](https://github.com/nbethala)
 - Contact: nfrounjian@gmail.com
