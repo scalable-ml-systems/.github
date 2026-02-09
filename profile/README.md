@@ -1,12 +1,15 @@
 ## Scalable ML Systems
-Practical ML infrastructure patterns, documented through real problems and solutions.
+Production‑grade ML infrastructure shaped by real problems and real workloads.
 
-- GPU serving inefficiency → Triton with multi‑framework support and GPU scheduling  
-- No observability → Prometheus/Grafana/Loki integrated  
-- Prototype → production gap → Terraform IaC + CI/CD + service mesh rollout  
-- LLM latency/cost → vLLM router with batching and monitoring (active development)
-- Agent workflows → LangGraph + Temporal orchestration (active development)
-- Versioning/reproducibility → DVC + MLflow (active development)  
+What I Build
+- LLM inference runtimes with multi‑model routing, continuous batching, and strict latency SLOs
+- GPU‑accelerated serving platforms using Triton, vLLM, and Ray
+- Event‑driven cognitive runtimes orchestrating multimodal inference through Kafka workflows
+- Multi‑cloud GPU infrastructure (AWS, Azure, GCP) with Terraform + Kubernetes
+- Deep observability stacks (OpenTelemetry, Prometheus, Grafana) for token‑level and GPU‑level metrics
+- Secure, reproducible AI pipelines with strong boundaries, IAM, mTLS, and containerized deployments
+
+I build systems that startups can run in production — not prototypes.
 
 #### Built by Nancy Bethala‑Frounjian | AI Infrastructure Engineer
 
