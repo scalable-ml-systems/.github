@@ -8,7 +8,8 @@ Core Focus
  - Cloud‑native AI: multi‑cloud GPU infrastructure on AWS, Azure, GCP
  - Deep observability: token‑level + GPU‑level insights with OTel, Prometheus, Grafana
  - Security & reproducibility: IAM, mTLS, containerized deployments
- - I build systems that startups can run in production — not prototypes.
+   
+I build systems that startups can run in production — not prototypes.
 
 #### Built by Nancy Bethala‑Frounjian | AI Infrastructure Engineer
 
