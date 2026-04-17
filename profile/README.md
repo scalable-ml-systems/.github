@@ -1,20 +1,16 @@
 ## Scalable ML Systems
-Production‑grade ML infrastructure shaped by real problems and real workloads.
+AI infrastructure projects by Nancy Bethala-Frounjian.
 
-Core Focus
- - High‑throughput inference: multi‑model routing, continuous batching, strict latency SLOs
- - GPU serving: Triton, vLLM, Ray
- - Cognitive runtimes: event‑driven, multimodal workflows with Kafka
- - Cloud‑native AI: multi‑cloud GPU infrastructure on AWS, Azure, GCP
- - Deep observability: token‑level + GPU‑level insights with OTel, Prometheus, Grafana
- - Security & reproducibility: IAM, mTLS, containerized deployments
-   
-I build systems that startups can run in production — not prototypes.
+What's here:
 
-#### Built by Nancy Bethala‑Frounjian | AI Infrastructure Engineer
+LLM inference platforms (vLLM, Triton, multi-model routing)
+GPU-accelerated Kubernetes deployments
+Event-driven agentic systems (Ray, Kafka)
+Observability stacks for inference workloads
 
-#### Community
-- Technical notes: [StackBytes](https://stackbytes.beehiiv.com/)
-- Portfolio & labs: [nbethala](https://github.com/nbethala)
+Open-source contributions: vLLM PR #34978
+
+- Writing: [stackbytes](https://stackbytes.beehiiv.com/)
+- labs: [nbethala](https://github.com/nbethala)
 - Contact: nfrounjian@gmail.com
 
