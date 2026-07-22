@@ -3,9 +3,10 @@
 
 Building end-to-end AI systems—from GPU memory execution up to ontology-driven knowledge graphs for complex domain reasoning.
 
-[![StackBytes](https://img.shields.io/badge/Writing-StackBytes-orange?style=flat-square&logo=beehiiv)](https://stackbytes.beehiiv.com/)
-[![GitHub](https://img.shields.io/badge/Labs-nbethala-181717?style=flat-square&logo=github)](https://github.com/nbethala)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Nbethala/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nbethala)
+[![StackBytes](https://img.shields.io/badge/StackBytes-FF6C37?style=for-the-badge&logo=beehiiv&logoColor=white)](https://stackbytes.beehiiv.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nfrounjian@gmail.com)
 
 ---
 
