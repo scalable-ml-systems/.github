@@ -1,40 +1,35 @@
 # Nancy Bethala-Frounjian
-### AI Systems Engineer | Multi-Vendor Systems (CUDA & ROCm)
 
-Building end-to-end AI systems—from GPU memory execution up to ontology-driven knowledge graphs for complex domain reasoning.
+### Senior AI Infrastructure Engineer | GPU & Inference Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Nbethala/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nbethala)
-[![StackBytes](https://img.shields.io/badge/StackBytes-FF6C37?style=for-the-badge&logo=beehiiv&logoColor=white)](https://stackbytes.beehiiv.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nfrounjian@gmail.com)
+Hi, I’m Nancy. I build and debug AI systems from the infrastructure up - from CUDA and GPU environments to inference runtimes and agentic workflows. Most of my projects begin as experiments: I build, break, test, and turn what I learn into repeatable workflows. I bring 14 years of earlier experience in enterprise infrastructure, data systems, high-availability operations, and incident response.
 
----
 
-## Systems Methodology: Full-Stack Integration
 
-I approach AI engineering through a systems-thinking lens:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Nbethala/)
+[![StackBytes](https://img.shields.io/badge/StackBytes-FF6C37?style=flat-square&logo=beehiiv&logoColor=white)](https://stackbytes.beehiiv.com/)
+[![GitHub Labs](https://img.shields.io/badge/Labs-nbethala-181717?style=flat-square&logo=github)](https://github.com/nbethala)
+[![Email](https://img.shields.io/badge/Email-nfrounjian%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nfrounjian@gmail.com)
 
-1. **Deterministic Domain Modeling (Ontology/Graph):** Structuring complex biomedical domain knowledge into typed entity-relationship graphs (Palantir-style object models) so LLM reasoning is grounded in deterministic truth, strict schema boundaries, and auditable lineage.
-2. **High-Throughput Runtime Infrastructure:** Optimizing serving engines (vLLM, Triton) for low-latency batching, state machine enforcement, and KV-cache efficiency under heavy request concurrency.
-3. **Hardware & Silicon Efficiency:** Profiling and tuning workloads across multi-vendor accelerator hardware (NVIDIA CUDA & AMD ROCm).
 
----
 
-## Featured Repositories
+##  Open-Source Contributions
 
-| Repository | System Layer | Key Focus Area | Stack |
-| :--- | :--- | :--- | :--- |
-| **[`biomedical-ai-infra-lab`](https://github.com/scalable-ml-systems/biomedical-ai-infra-lab)** | Domain & Runtime | Ontology-grounded Graph RAG for biomedical reasoning, long-context window management, and schema-constrained inference execution. | Neo4j/NetworkX, vLLM, Python, Triton, Ray |
-| **[`amd-rocm-platform-engineering`](https://github.com/scalable-ml-systems/amd-rocm-platform-engineering)** | Silicon & Accelerator | Cross-vendor GPU performance profiling, ROCm/HIP kernel optimization, memory bandwidth triage, and multi-GPU benchmarking. | ROCm, HIP, CUDA, C++, PyTorch, Docker |
+* **[vLLM](https://github.com/vllm-project/vllm)** — **[PR #34978](https://github.com/vllm-project/vllm/pull/34978)**: Investigated a DeepSeek-R1 reasoning-boundary failure involving speculative decoding and structured output, then submitted scheduler/parser changes and validation for the failure path.
 
----
+## Current Focus
 
-## ⚡ Open-Source Contributions
+- GPU platform reliability: NVIDIA and AMD/ROCm environment qualification, hardware/runtime compatibility, Kubernetes GPU scheduling, observability, and failure recovery.
 
-* **[vLLM](https://github.com/vllm-project/vllm)** — **[PR #34978](https://github.com/vllm-project/vllm/pull/34978)**: Resolved high-concurrency state machine divergence during structured output parsing under heavy load.
+- Inference systems: vLLM and Triton serving, workload characterization, TTFT/ITL/throughput analysis, KV-cache behavior, routing, fallback, and backend health.
+
+- Reliable AI workflows: evidence contracts, bounded agent execution, evaluation, provenance, and human approval boundaries.
+
+- Frontier systems exploration: world-model training and inference infrastructure, accelerators, reliability, and evaluation.
 
 ---
 
-## 📝 Technical Write-ups
 
-* **[StackBytes](https://stackbytes.beehiiv.com/)**: Technical deep-dives on ontology modeling for enterprise RAG, vLLM state machines, and bare-metal GPU performance triage.
+📖 I write about what I’m building and learning at **[StackBytes](https://stackbytes.beehiiv.com)**.
+
+📬 **Contact:** [nfrounjian@gmail.com](mailto:nfrounjian@gmail.com) | [Connect on LinkedIn](https://linkedin.com/in/Nbethala/)
