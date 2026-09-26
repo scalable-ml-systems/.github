@@ -2,7 +2,7 @@
 
 ### Senior AI Infrastructure Engineer | GPU & Inference Systems
 
-Hi, I’m Nancy. I build and debug AI systems from the infrastructure up - from CUDA and GPU environments to inference runtimes and agentic workflows. Most of my projects begin as experiments: I build, break, test, and turn what I learn into repeatable workflows. I bring 14 years of earlier experience in enterprise infrastructure, data systems, high-availability operations, and incident response.
+Hi, I’m Nancy. I build and debug AI systems from the infrastructure up - from CUDA and GPU environments to inference runtimes and agentic workflows. Most of my projects begin as experiments: I build, break, test, and turn what I learn into repeatable workflows. I bring 10+ years of earlier experience in enterprise infrastructure, data systems, high-availability operations, and incident response.
 
 
 
